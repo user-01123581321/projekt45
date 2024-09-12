@@ -1,0 +1,2 @@
+Buger - $25.0 - Quantity: 30
+Pizza - $20.0 - Quantity: 20
